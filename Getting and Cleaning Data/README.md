@@ -1,4 +1,4 @@
-Getting and Cleaning Data Project
+### Getting and Cleaning Data Project
 
 Name of the Student: Kamireddy Rasool Reddy
 
@@ -7,7 +7,7 @@ Project: Getting and Cleaning Data Review
 Data Zip File Location: UCI Machine Learning Repository (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 
-Theme of the Project
+### Theme of the Project
 
 1. The submitted data set is tidy.
 
