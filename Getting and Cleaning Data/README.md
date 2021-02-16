@@ -4,7 +4,7 @@ Name of the Student: Kamireddy Rasool Reddy
 
 Project: Getting and Cleaning Data Review
 
-Data Zip File Location: UC Irvine Repo
+Data Zip File Location: UCI Machine Learning Repository (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 
 Theme of the Project
